@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Laila: 300, 400, 500, 600, 700|Slabo+27px:200, 300, 400, 500, 600, 700');
+
+
+
+
+body {
+    background-image: url('../pictures/font.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+    margin: 0;
+
+
+}
+
+/*-------------index.html------*/
+
+.cl {
+    text-align: center;
+    text-shadow: 1px 1px #000;
+    display: block;
+
+}
+
+h1 {
+    font-family: 'Slabo 27', serif;
+    font-weight: 700;
+    text-decoration: none;
+
+    border: 4px solid #fff;
+    background-color: rgba(0, 0, 0, 0.4);
+
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 60px;
+    margin-top: 60px;
+
+
+}
+
+a {
+    color: #DEE2E2;
+    text-shadow: 1px 1px #000;
+
+}
+
+a:hover {
+    text-decoration: none;
+    color: #636665;
+
+
+}
+
+h1:hover {
+
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+.style-main-content {
+    font-family: 'Laila', serif;
+    font-weight: 400;
+
+    font-size: 45px;
+    margin-top: 15%;
+}
+
+
+
+.name {
+    font-size: 30px;
+
+}
+
+.con {
+    margin-top: 50px;
+    color: #DEE2E2;
+}
+
+i {
+    color: #F7AABA;
+
+}
+
+.sm {
+    border: 1px solid #fff;
+    background-color: #504679;
+    margin: 100px 20px 40px;
+   
+  
+  
+ 
+}
