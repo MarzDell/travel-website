@@ -231,3 +231,28 @@ button[type='submit']:hover{
 }
 
 /*-------services ------*/
+
+.info-item{
+    margin-bottom:20px;
+    display: block;
+    clear:both;
+}
+
+.info-item .key-info,
+.info-item .value-info{
+    display: inline-block;
+    margin-right:10px;
+}
+
+.info-item .key-info{
+    width: 30%;
+    vertical-align: top;
+    font-weight: 500;
+    
+}
+ 
+ 
+.info-item .value-info{
+    position:relative;
+    width:60%;
+}
