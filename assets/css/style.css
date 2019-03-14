@@ -139,6 +139,8 @@ margin: auto;
 }
 
 h4 {
+    font-family:'Laila', serif; 
+    font-weight: 700;
     text-align: center;
 }
 
@@ -215,4 +217,17 @@ button[type='submit']:hover{
 }
 
 
-/*------- ------*/
+/*-------HowWeWork ------*/
+
+
+    
+    
+.progress{
+    font-family: 'Slabo 27', serif;
+    font-weight: 300;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 70%;
+}
+
+/*-------services ------*/
