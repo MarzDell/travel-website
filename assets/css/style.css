@@ -188,3 +188,31 @@ footer {
     float: left;
 
 }
+
+
+/*-----------enquire---*/
+.heading{
+    font-family: 'Slabo 27', serif;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    
+}
+.center-form{
+    margin:0 auto;
+    padding-top: 15px;
+    max-width: 60%;
+}
+
+button[type='submit']{
+    margin-top:10px;
+    color:#F9C8D3;
+    
+}
+
+button[type='submit']:hover{
+    background-color: #504679;
+}
+
+
+/*------- ------*/
