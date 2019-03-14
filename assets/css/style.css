@@ -16,11 +16,18 @@ body {
 
 /*-------------index.html------*/
 
-.cl {
+.col {
     text-align: center;
     text-shadow: 1px 1px #000;
     display: block;
 
+}
+
+.menu-row{
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    margin:5px;
 }
 
 h1 {
@@ -87,6 +94,7 @@ i {
 
 }
 
+
 /*-------bg-colors--------------*/
 
 .bg-color {
@@ -114,7 +122,7 @@ section {
     width: 30%;
     border-radius: 100px;
     box-shadow: 1px 1px #000;
-margin: auto;
+    margin: auto;
 
 
 }
@@ -123,7 +131,7 @@ margin: auto;
 .orga {
     float: left;
     clear: left;
-margin: auto;
+    margin: auto;
     width: 30%;
     box-shadow: 1px 1px #000;
 
@@ -139,7 +147,7 @@ margin: auto;
 }
 
 h4 {
-    font-family:'Laila', serif; 
+    font-family: 'Laila', serif;
     font-weight: 700;
     text-align: center;
 }
@@ -193,36 +201,35 @@ footer {
 
 
 /*-----------enquire---*/
-.heading{
+
+.heading {
     font-family: 'Slabo 27', serif;
     font-weight: 400;
     margin-top: 20px;
     margin-bottom: 15px;
-    
+
 }
-.center-form{
-    margin:0 auto;
+
+.center-form {
+    margin: 0 auto;
     padding-top: 15px;
     max-width: 60%;
 }
 
-button[type='submit']{
-    margin-top:10px;
-    color:#F9C8D3;
-    
+button[type='submit'] {
+    margin-top: 10px;
+    color: #F9C8D3;
+
 }
 
-button[type='submit']:hover{
+button[type='submit']:hover {
     background-color: #504679;
 }
 
 
 /*-------HowWeWork ------*/
 
-
-    
-    
-.progress{
+.progress {
     font-family: 'Slabo 27', serif;
     font-weight: 300;
     margin-top: 30px;
@@ -232,27 +239,27 @@ button[type='submit']:hover{
 
 /*-------services ------*/
 
-.info-item{
-    margin-bottom:20px;
+.info-item {
+    margin-bottom: 20px;
     display: block;
-    clear:both;
+    clear: both;
 }
 
 .info-item .key-info,
-.info-item .value-info{
+.info-item .value-info {
     display: inline-block;
-    margin-right:10px;
+    margin-right: 10px;
 }
 
-.info-item .key-info{
+.info-item .key-info {
     width: 30%;
     vertical-align: top;
     font-weight: 500;
-    
+
 }
- 
- 
-.info-item .value-info{
-    position:relative;
-    width:60%;
+
+
+.info-item .value-info {
+    position: relative;
+    width: 60%;
 }
