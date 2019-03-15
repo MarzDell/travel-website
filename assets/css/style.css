@@ -23,11 +23,15 @@ body {
 
 }
 
-.menu-row{
-    display: inline-block;
-    width: 80px;
-    height: 30px;
-    margin:5px;
+.nav{
+    flex-wrap: nowrap;
+    margin:0;
+}
+.nav-link{
+   padding: 3px 3px;
+   margin: 3px;
+   
+   
 }
 
 h1 {
@@ -283,7 +287,5 @@ button[type='submit']:hover {
     margin: 10px;
 }
 
-video,
-audio{
-   padding: 10px;
-}
+/*---------------MediaQuery-----------*/
+
