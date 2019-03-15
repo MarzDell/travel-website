@@ -9,18 +9,18 @@ The website is fully responsive, on mobile, desktop and larger screen.
 Navigation between pages are functional, there is two more links which you can go through( logo takes you to Home Page, click here takes you to Story Page).
 
 <h4>Technologies Used<h4>
-    HTML5
-    CSS
-    Cloud 9 IDE
-    Bootstrap
-    GIT
-    GITHUB
-    Bash
-    Ubuntu
-    Google Chrome Developer tool
-    W3C Validation
-    Hover.css
-    Google Font
+<ul>   <li> HTML5</li>
+   <li> CSS</li>
+    <li>Cloud 9 IDE</li>
+    <li>Bootstrap</li>
+    <li>GIT</li>
+    <li>GITHUB</li>
+    <li>Bash</li>
+    <li>Ubuntu</li>
+    <li>Google Chrome Developer tool</li>
+    <li>W3C Validation</li>
+    <li>Hover.css</li>
+    <li>Google Font</li></ul>
     
 <h3> Deployment</h3>
 
@@ -28,4 +28,9 @@ website was created in Cloud 9 IDE, GIT directory was used for version control a
 Website can be found at:
 https://marzdell.github.io/travel-website/
 
-<h3></h3>
+<h3>Testing</h3>
+
+Each page was tested locally and on GITHUB pages using Chrome developer tools.
+Testing on all mobiles available  and responsive desktop in Chrome developer tools.
+All links were tested as well as music and video.
+
