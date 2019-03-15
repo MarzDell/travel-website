@@ -27,3 +27,5 @@ Navigation between pages are functional, there is two more links which you can g
 website was created in Cloud 9 IDE, GIT directory was used for version control and then uploaded to GITHUB using Ubuntu / Bash script.
 Website can be found at:
 https://marzdell.github.io/travel-website/
+
+<h3></h3>
