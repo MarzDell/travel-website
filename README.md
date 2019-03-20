@@ -9,7 +9,7 @@ The website is fully responsive, on mobile, desktop and larger screens.
 Navigation between pages are functional, there are two more links which you can go through( logo takes you to Home Page, for example).
 
 <h4> User Design Experience</h4>
-My User Design Experience file is in assets folder.
+My User Design Experience folder is in assets folder.
 
 <h4>Technologies Used<h4>
 <ul>   <li> HTML5</li>
