@@ -35,5 +35,6 @@ https://marzdell.github.io/travel-website/
 
 Each page was tested locally and on GITHUB pages using Chrome developer tools.
 Testing on all mobiles available  and responsive desktop in Chrome developer tools.
+Testing in Validator W3C.
 All links were tested as well as music and video.
 
