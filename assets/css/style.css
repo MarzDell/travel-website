@@ -25,6 +25,7 @@ body {
 button:focus{
     outline: none;
 }
+ 
 
 .navbar-light .navbar-nav .nav-link{
     color: #000;
@@ -282,7 +283,21 @@ button[type='submit']:hover {
     text-align: center;
     font-size: 20px;
     }
-}
+    .navbar-nav{
+     display: flex;
+     flex-direction: row;
+ }
+ .nav-link{
+     margin-right: 15px;
+ }
+  .collapse{
+      display:block !important;
+  }
+  .navbar-toggler{
+   display: none !important;
+ }
+
+}     
 
 @media(min-width: 1020px){
     .audio-placeholder{
